@@ -1,0 +1,46 @@
+*{
+    position:none;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: yellow;
+    
+}
+
+/* .imgs{
+    display: none;
+}
+
+.imge1 {
+    display: inline-block;
+}
+.image2{
+    display: inline-block;
+  
+}
+.image3 {
+    display: inline-block;
+
+} */
+
+
+.container{
+    display: flex;
+    width: 1540px;
+}
+.imge1 {
+    width: 30%;
+}
+.imge1 img {
+    width: 100%;
+}
+
+.nextone {
+    background-color: brown;
+}
+
+.nextone img {
+    position:relative;
+}
